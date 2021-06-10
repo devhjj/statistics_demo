@@ -1,6 +1,10 @@
 # statistics_demo
 
-## Language: python 3.x, html
+## Skills
+- python 3.x, html
+- Flask
+- Pandas
+- Matplotlib
 
 ## Function
 ### 1. http://localhost:5000/ 
