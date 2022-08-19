@@ -14,3 +14,5 @@
 ### 2. http://localhost:5000/demo
 - show statistics graph by image
 ![demo2](https://raw.githubusercontent.com/devhjj/statistics_demo/master/static/statistics_demo2.PNG)
+
+### MIT License
